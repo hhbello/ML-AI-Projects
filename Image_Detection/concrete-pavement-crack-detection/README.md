@@ -6,7 +6,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-An end-to-end deep learning computer vision system for concrete crack detection, classification, explainability, and severity estimation. Tailored for civil infrastructure monitoring—including reinforced concrete bridge decks, highway pavements, and retaining walls—connecting directly to structural health monitoring (SHM) assessments.
+An end-to-end deep learning computer vision system for concrete crack detection, classification, explainability, and severity estimation. Tailored for civil infrastructure monitoring, including RC bridge decks, highway pavements, and retaining walls; connecting directly to structural health monitoring (SHM) assessments.
 
 ---
 
