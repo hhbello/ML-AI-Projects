@@ -84,15 +84,6 @@ Uses morphological thinning and distance transform algorithms masked by Grad-CAM
 - Python 3.10 or 3.11
 - NVIDIA GPU with CUDA support (e.g. GTX 1050 Ti or higher) or Google Colab
 
-### Using Pipenv (Recommended for Local PC)
-```powershell
-# Navigate to project directory
-cd "d:\HafeezBello\HHB\JUPYTER\CompVis_Projects\concrete-pavement-crack-detection"
-
-# Activate environment and install dependencies
-pipenv install
-pipenv run pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
-```
 
 ### Using Standard Pip / Virtualenv
 ```bash
